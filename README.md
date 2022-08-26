@@ -5,8 +5,9 @@
 I've been coding as a hobby since I was 14 and now it's my job and passion.
 
 - 🌍 I'm based in Barcelona, Spain.
-- ✉️ You can contact me at [gonzalo.salvador.martin@gmail.com](mailto:gonzalo.salvador.martin@gmail.com)
-- 🚀 My current projects are [MDBGame](http://mdbgames.vercel.app) and [Trepir](http://trepir.com)
+- ✉️ You can contact me at [gonzalo.salvador.martin@gmail.com](mailto:gonzalo.salvador.martin@gmail.com).
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="16" alt="LinkedIn" /> Linkedin [gonzalo-salvador](https://www.linkedin.com/in/gonzalo-salvador/).
+- 🚀 My current projects are [MDBGame](http://mdbgames.vercel.app) and [Trepir](http://trepir.com).
 - 🧠 I'm learning Vue JS and solidifying my Next JS.
 - 🤝 I'm open to collaborating on any project that sounds interesting and fun.
 
@@ -69,8 +70,3 @@ I've been coding as a hobby since I was 14 and now it's my job and passion.
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="50" alt="VueJS" /></a>
 
 #
-
-## Socials
-
-<a href="
-https://www.linkedin.com/in/gonzalo-salvador/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="50" alt="LinkedIn" /></a>
