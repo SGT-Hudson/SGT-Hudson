@@ -7,7 +7,7 @@ I've been coding as a hobby since I was 14 and now it's my job and passion.
 - 🌍 I'm based in Barcelona, Spain.
 - ✉️ You can contact me at [gonzalo.salvador.martin@gmail.com](mailto:gonzalo.salvador.martin@gmail.com).
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="16" alt="LinkedIn" /> Linkedin [gonzalo-salvador](https://www.linkedin.com/in/gonzalo-salvador/).
-- 🚀 My current projects are [MDBGame](http://mdbgames.vercel.app) and [Trepir](http://trepir.com).
+- 🚀 My current project is [MDBGame](http://mdbgames.vercel.app).
 - 🧠 I'm learning Vue JS and solidifying my Next JS.
 - 🤝 I'm open to collaborating on any project that sounds interesting and fun.
 
