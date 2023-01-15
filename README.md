@@ -7,13 +7,14 @@ I've been coding as a hobby since I was 14 and now it's my job and passion.
 - 🌍 I'm based in Barcelona, Spain.
 - ✉️ You can contact me at [gonzalo.salvador.martin@gmail.com](mailto:gonzalo.salvador.martin@gmail.com).
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="16" alt="LinkedIn" /> Linkedin [gonzalo-salvador](https://www.linkedin.com/in/gonzalo-salvador/).
-- 🧠 I'm learning Vue JS and solidifying my Next JS.
+- 🧠 I'm learning Vue JS and solidifying my knowledge of NextJS 13.
 - 🤝 I'm open to collaborating on any project that sounds interesting and fun.
 
 ## Top Technologies
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" height="50" alt="React Native" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="50" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2MqoFueIo9M2w28ViH5FJVLrL-iIDjpMBQ4e4Rc&s" height="50" alt="Express" style="border-radius: 12px"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="50" alt="PostgreSQL" /></a>
@@ -35,6 +36,7 @@ I've been coding as a hobby since I was 14 and now it's my job and passion.
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" height="50" alt="React Native" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="50" alt="NextJs" /></a>
 <a href="https://nativebase.io/" target="_blank" rel="noreferrer"><img src="https://opencollective-production.s3.us-west-1.amazonaws.com/c8a0bb60-c3a1-11eb-b060-23743d16f0de.png" height="50" alt="Natve Base" /></a>
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" height="50" alt="Expo" style="border-radius: 12px"/></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="50" alt="Redux" /></a>
@@ -65,7 +67,6 @@ I've been coding as a hobby since I was 14 and now it's my job and passion.
 
 ### Want to Learn
 
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="50" alt="NextJs" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="50" alt="VueJS" /></a>
 
 #
